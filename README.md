@@ -5,6 +5,15 @@
 I'm a Computational Mathematics student passionate about building software, exploring advanced mathematics, and applying computation to scientific problems. I enjoy studying mathematics deeply while developing practical skills in software engineering, artificial intelligence, and scientific computing.
 
 ---
+## 💻 Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge)
+![Mathematics-blue](https://img.shields.io/badge/Mathematics-blue?style=for-the-badge)
+
 
 ## 🚀 About Me
 
@@ -103,7 +112,13 @@ I'm a Computational Mathematics student passionate about building software, expl
 ---
 
 > "Mathematics is the language with which we understand the universe."
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashRaj1729&show_icons=true)
+## 📊 GitHub Statistics
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkashRaj1729&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashRaj1729&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AkashRaj1729&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashRaj1729&layout=compact)
 
