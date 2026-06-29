@@ -122,4 +122,4 @@ I'm a Computational Mathematics student passionate about building software, expl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashRaj1729&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AkashRaj1729)](https://git.io/streak-stats)
+
