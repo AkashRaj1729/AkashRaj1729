@@ -112,14 +112,3 @@ I'm a Computational Mathematics student passionate about building software, expl
 ---
 
 > "Mathematics is the language with which we understand the universe."
-## 📊 GitHub Statistics
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkashRaj1729&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashRaj1729&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AkashRaj1729&theme=tokyonight)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashRaj1729&layout=compact)
-
-
